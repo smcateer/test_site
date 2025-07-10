@@ -1,5 +1,5 @@
 title: Steve's DS work
 description: A portfolio of my work in data science
-baseurl: "test_site"
-url: "https://smcateer.github.io/test_site"
+baseurl: "/test_site"
+url: "https://smcateer.github.io"
 theme: minima
